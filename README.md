@@ -30,7 +30,7 @@ Mesmo que você esteja começando do zero e por vezes, vindo de outra área dist
 
 ## 🎯 Primeiro passo: alinhe suas expectativas
 
-Antes de tudo, reflita sobre três pontos e aqui, você deve também incluir pontos seus, pois só você sabe realmente a necessidade do seu dia a dia, disposição e responsabilidades, muitas vezes elas relacionada com saúde e a família.
+Antes de tudo, reflita sobre os pontos e aqui, você deve também incluir pontos seus, pois só você, entende realmente a necessidade, rotina do seu dia a dia, disposição e responsabilidades, muitas vezes elas relacionada com financeiro, saúde e a família.
 
 1. **Tempo disponível para estudar**
 2. **Quanto você pode investir (tempo e/ou dinheiro)**
