@@ -1,9 +1,3 @@
----
-title: Iniciar na Carreira de QA em Testes de Software
-date: 2025-04-08
-author: santosqa
----
-
 
 > 💡 **Dica**: Use Ctrl+Click (Windows/Linux) ou Cmd+Click (Mac) para abrir os links em uma nova aba.
 
