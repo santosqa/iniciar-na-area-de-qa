@@ -1,24 +1,10 @@
 
-> 💡 **Dica**: Use Ctrl+Click (Windows/Linux) ou Cmd+Click (Mac) para abrir os links em uma nova aba.
+#
+# 🚀 QA e Testes de Software: Guia Completo de Estratégias, Automação e Carreira
 
-[![Santos Links](https://img.shields.io/badge/GitHub-Santos%20Links-%23FFD700?style=for-the-badge&logo=github&logoColor=white)](https://santosqa.github.io) [![GitHub](https://img.shields.io/badge/GitHub-About.me-%2350fa7b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santosqa) [![LinkedIn](https://img.shields.io/badge/LinkedIn>-SantosQA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosqa) [![Instagram](https://img.shields.io/badge/>-instagram-%23ff5555.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santosqa_/) [![Santos QA](https://img.shields.io/badge/www-santosqa.com-%23bd93f9.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.santosqa.com) [![Apartamento Vista Mar](https://img.shields.io/badge/www-ApartamentoVistaMar.com-%238be9fd.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.apartamentovistamar.com/) [![Receitas Nerds](https://img.shields.io/badge/GitHub-Receitas%20Nerds-%23ffb86c?style=for-the-badge&logo=github&logoColor=white)](https://santosqa.github.io/receitas/) [![Santos Locais Turisticos](https://img.shields.io/badge/GitHub-Santos%20Locais%20Turísticos-%23ff79c6?style=for-the-badge&logo=github&logoColor=white)](https://santosqa.github.io/santos-locais-turisticos/)
+**A referência definitiva para Quality Assurance — do iniciante ao profissional em testes, automação e liderança técnica.**
 
-
----
-
-## ⭐️ Deixe uma estrela para apoiar o projeto 👍🏽
-
-<p align="center">
-  <img alt="Imagem print da pagina principal do projeto contendo duas setas para mostrar a opção de apoiar clicando no ícone de estrela no github" src="/apoie-o-projeto.png" width="100%">
-</p>
-
-
-----------------------
-
-
-# 🚀 Iniciar na Carreira de QA em Testes de Software
-
-Você está pensando em começar na área de QA (Quality Assurance)? Talvez esteja migrando de outra profissão ou apenas buscando uma nova oportunidade no mundo da tecnologia? Se essas perguntas fazem parte do seu momento atual, esse artigo é para você.
+Você está pensando em evoluir ou mesmo começar na área de QA (Quality Assurance)? Talvez esteja migrando de outra profissão ou apenas buscando uma nova oportunidade no mundo da tecnologia? Se essas perguntas fazem parte do seu momento atual, esse artigo é para você.
 
 💡 Vou compartilhar aqui minha visão pessoal, prática e sincera sobre o início na carreira de QA, além de dicas de cursos, ferramentas, e pontos que realmente importam na hora de entrar nesse mercado. **Obs: É uma visão bem macro, para irmos diretamente ao que importa. E você já iniciar sua jornada!**
 
@@ -57,10 +43,20 @@ De forma geral, o QA é o guardião da qualidade do software em todo ciclo de vi
 
 E por ai vai..., cada empresa ou equipe tem seu processo que pode variar bastante, mas o foco sempre será garantir a qualidade do produto. Evitar que o cliente final tenha problemas e que a empresa não perca dinheiro com bugs, falhas e problemas de performance.
 
+---
 
-## 🔍 O Mercado ainda tem espaço para testes manuais?
+## ⭐️ Deixe uma estrela para apoiar o projeto 👍🏽
 
-Sim! O problema é que muitas empresas no processo de entrevista, coloca como pré-requisito que o candidato tenha experiência em automação, e ao ser contratado a pessoa mal chega a ter o prazer de atuar com automação de tão dinâmico e as vezes desorganizado que é o dia a dia. E isso pode ser um grande desafio para quem está começando. Então sua maior oportunidade em sobressair e conquistar a vaga, é mostrar que você tem bons conhecimentos nas estratégias de testes, processos, metodologias e mesmo que seja raso, mas tenha sim o conhecimento em algum framework ou linguagem de automação, mesmo que seja ao menos acadêmico ou em projetos pessoais.
+<p align="center">
+  <img alt="Imagem print da pagina principal do projeto contendo duas setas para mostrar a opção de apoiar clicando no ícone de estrela no github" src="/apoie-o-projeto.png" width="100%">
+</p>
+
+
+----------------------
+
+## 🔍 O Mercado ainda tem oportunidade em testes manuais?
+
+Sim! Muitas empresas no processo de entrevista, coloca como pré-requisito que o candidato tenha experiência em automação, e ao ser contratado a pessoa mal chega a ter o prazer de atuar com automação de tão dinâmico e as vezes desorganizado que é o dia a dia. E isso pode ser um grande desafio para quem está começando. Então sua maior oportunidade em sobressair e conquistar a vaga, é mostrar que você tem bons conhecimentos nas estratégias de testes, processos, metodologias e mesmo que seja raso, mas tenha sim o conhecimento em algum framework ou linguagem de automação, mesmo que seja ao menos acadêmico ou em projetos pessoais.
 
 Mas fique tranquilo(a), não desanime. Apesar da automação estar em alta, ainda há bastante demanda por profissionais que dominem **testes manuais** — especialmente em projetos que ainda não possuem cobertura automatizada ou onde a interação humana é essencial para garantir a experiência do usuário.
 
@@ -184,5 +180,15 @@ Se esse conteúdo te ajudou, compartilha com mais alguém que esteja nessa mesma
 
 
 [Ricardo Santos QA](https://github.com/santosqa) 👋🏼
+---
+
+> 💡 **Dica**: Use Ctrl+Click (Windows/Linux) ou Cmd+Click (Mac) para abrir os links em uma nova aba.
+
+[![Santos Links](https://img.shields.io/badge/GitHub-Santos%20Links-%23FFD700?style=for-the-badge&logo=github&logoColor=white)](https://santosqa.github.io) [![GitHub](https://img.shields.io/badge/GitHub-About.me-%2350fa7b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santosqa) [![LinkedIn](https://img.shields.io/badge/LinkedIn>-SantosQA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosqa) [![Instagram](https://img.shields.io/badge/>-instagram-%23ff5555.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santosqa_/) [![Santos QA](https://img.shields.io/badge/www-santosqa.com-%23bd93f9.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.santosqa.com) [![Apartamento Vista Mar](https://img.shields.io/badge/www-ApartamentoVistaMar.com-%238be9fd.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.apartamentovistamar.com/) [![Receitas Nerds](https://img.shields.io/badge/GitHub-Receitas%20Nerds-%23ffb86c?style=for-the-badge&logo=github&logoColor=white)](https://santosqa.github.io/receitas/) [![Santos Locais Turisticos](https://img.shields.io/badge/GitHub-Santos%20Locais%20Turísticos-%23ff79c6?style=for-the-badge&logo=github&logoColor=white)](https://santosqa.github.io/santos-locais-turisticos/)
+
+---
+#
+
+
 
 
