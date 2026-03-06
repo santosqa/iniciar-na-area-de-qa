@@ -1,6 +1,8 @@
 
 #
-# 🚀 QA e Testes de Software: Guia Completo de Estratégias, Automação e Carreira
+# 🏆 Guia Completo QA Desenrolado(a): O Que Você Precisa Saber para Evoluir ou Alavancar sua Carreira em Testes de Software
+
+**Sem o Blablablá — Estratégias, Ferramentas e Mentalidade que Realmente Importam**
 
 **A referência definitiva para Quality Assurance — do iniciante ao profissional em testes, automação e liderança técnica.**
 
