@@ -1,7 +1,7 @@
 ####
 # 🏆 QA Descomplicado: O Guia Completo Para Conquistar Suas Habilidades em Testes de Software.
 
-📚 Um guia completo de **QA (Quality Assurance) e Testes de Software** do Iniciantes ao experientes para quem deseja **entrar na área de qualidade, Migrar ou evoluir profissionalmente**.
+📚 Um guia completo de **QA (Quality Assurance) e Testes de Software** do Iniciante ao experiente para quem deseja **entrar na área de qualidade, Migrar ou evoluir profissionalmente**.
 
 >_🧠 A Referência Definitiva Para Quality Assurance — Mentalidade que Realmente Importa nas entrevistas e no dia a dia de QA_
  
@@ -228,7 +228,7 @@ Este roadmap apresenta um possível **caminho de aprendizado para quem deseja en
 - Monitoramento de falhas
 
 ##### 13. 📋 Estratégia de Testes
-- Tipos e estratágias de testes 
+- Tipos e estratégias de testes 
 - Plano de testes
 - Estimativa de testes
 - Priorização de testes
@@ -313,9 +313,10 @@ Este roadmap apresenta um possível **caminho de aprendizado para quem deseja en
 
 ## 🔍 O Mercado ainda tem oportunidade em testes manuais?
 
-Sim! Muitas empresas no processo de entrevista, coloca como pré-requisito que o candidato tenha experiência em automação, e ao ser contratado a pessoa mal chega a ter o prazer de atuar com automação de tão dinâmico e as vezes desorganizado que é o dia a dia. E isso pode ser um  desafio para quem está começando e grande oportunidade para quem já está atuando.
+Sim! Muitas empresas no processo de entrevista, coloca como pré-requisito que o candidato tenha experiência em automação, e ao ser contratado a pessoa mal chega a ter o prazer de atuar com automação de tão dinâmico e às vezes desorganizado que é o dia a dia. E isso pode ser um  desafio para quem está começando e grande oportunidade para quem já está atuando.
 
-Então veja como um espaço para se destacar e conquistar o lugar desejado, mostrando que você tem bons conhecimentos nas estratégias de testes, processos, metodologias e mesmo que seja raso, mas tenha sim o conhecimento também em algum framework ou linguagem de automação, ao menos acadêmico ou em projetos pessoais para conseguir conversar sobre em momento de entrevista.
+Então veja como um espaço para se destacar e conquistar o lugar desejado, mostrando que você tem bons conhecimentos nas estratégias de testes, processos, metodologias e mesmo que seja superficial, mas tenha sim o conhecimento também em algum framework ou linguagem de automação, ao menos acadêmico ou em projetos pessoais para conseguir conversar sobre em momento√
+ de entrevista.
 
 
 Fique tranquilo(a), não desanime. Apesar da automação estar em alta, ainda há demanda por profissionais que dominem **testes manuais** — especialmente em projetos que ainda não possuem cobertura automatizada ou onde a interação humana é essencial para garantir a experiência do usuário.
@@ -392,11 +393,11 @@ Fique tranquilo(a), não desanime. Apesar da automação estar em alta, ainda h�
 
 ## 📚 Como saber em qual curso aprofundar os estudos para conseguir uma vaga?
 - **Analise a descrição da vaga:**  
-  Se os cursos que fez, ainda não te deu realmente o que o direcionamento que precisa, Veja quais ferramentas e conhecimentos são mais exigidos nas vagas. Olhe diversas vagas e monte um consolidado de itens que são comuns entre todas e priorize esses pontos. 
+  Se os cursos que fez, ainda não te deu realmente o direcionamento que precisa, Veja quais ferramentas e conhecimentos são mais exigidos nas vagas. Olhe diversas vagas e monte um consolidado de itens que são comuns entre todas e priorize esses pontos. 
  
 ## 👨🏻‍💻 Como exercitar meu aprendizado?
 - **Projeto pessoal:**  
-  Veja meu github, diversos momentos eu excluo projeto e coloco projetos novos, mas sempre com o mesmo objetivo: **aprender, me preparar e compartilhar.**, Tenha esse costume, não seja como eu que procastina muito, mas sempre que posso, estou lá, criando algo novo, excluindo outros.
+  Veja meu github, diversos momentos eu excluo projeto e coloco projetos novos, mas sempre com o mesmo objetivo: **aprender, me preparar e compartilhar.**, Tenha esse costume, não seja como eu que procrastina muito, mas sempre que posso, estou lá, criando algo novo, excluindo outros.
 
 - **Beta test**
   Pesquise na internet, entenda o mercado, existem diversas empresas que abrem para pessoas testarem seus produtos, e você pode se inscrever para participar. Isso vai te ajudar a entender como funciona o processo de testes e a vivenciar na prática o que você está aprendendo.
@@ -437,10 +438,10 @@ Começar como QA pode ser o primeiro passo para diversos caminhos, como:
 - Product Owner (com background em testes)
 - Gestão de projetos
 - Gestão de equipes tech
-- Prodct Manager (com background em testes)
+- Product Manager (com background em testes)
 - DevOps (com background em testes)
 - Engenheiro de confiabilidade de site (SRE)
-- Desenvolvimento de aplicaçoes
+- Desenvolvimento de aplicações
 - Engenharia de software
 
 
